@@ -1,0 +1,46 @@
+{
+    "animals": {
+        "especie01": {
+            "name": "Vaquita marina",
+            "image-url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Phocoena_sinus.jpg",
+            "location": "Golfo de California",
+            "reason": "su principal problema son las redes de pesca que se extienden en su zona habitable para pescar otros animales",
+            "date": "El último recuento, en 2019, calculó que solo quedaban unas diez."
+        },
+        "especie02": {
+            "name": "Pez napoleón",
+            "image-url": "https://www.ecolatras.es/archivos/blog-pictures/1599059124.jpg",
+            "location": "Océano Índica y Pacífico",
+            "reason": "Sus característicos labios son lo que le ha puesto en el punto de mira, su carne se considera un manjar exquisito y por eso se le ha perseguido hasta su, casi, desaparición",
+            "date": "El último recuento, en 2019, calculó que solo quedaban unas diez."
+        },
+        "especie03": {
+            "name": "Pez luna",
+            "image-url": "https://imagenes.elpais.com/resizer/U2YqXkbyKrp6K61NJ-Kj2gUpvd8=/1200x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/46X3PSPQWF346BX22IYLK5I7R4.jpg",
+            "location": "Océano Índica y Pacífico",
+            "reason": "Puede llegar a pesar 2 300 kg y medir más de 4 metros al que le gusta tomar el sol en la superficie poniendo fácil su captura.",
+            "date": "El último recuento, en 2019, calculó que solo quedaban unas diez."
+        },
+        "especie04": {
+            "name": "Angel de mar",
+            "image-url": "https://www.ecolatras.es/archivos/blog-pictures/1599059234.jpg",
+            "location": "Océano Índica y Pacífico",
+            "reason": "La acidificación del océano. Tienen una cubierta fina que no les protege nada de esos cambios que no deberían suceder.",
+            "date": "El último recuento, en 2019, calculó que solo quedaban unas diez."
+        },
+        "especie05": {
+            "name": "Coral",
+            "image-url": "https://www.ecolatras.es/archivos/blog-pictures/1599059243.jpg",
+            "location": "Playas tropicales",
+            "reason": "Aumento de la temperatura del mar, las zooxantelas mueren y dejan al coral blanco y sin alimento, algo que ya está pasando a gran escala en la Gran Barrera de Coral, el mayor arrecife de coral del mundo",
+            "date": "Australia que tiene más de 2 600 km y donde ya ha muerto más del 35 % por esta causa y más de dos tercios está blanqueado."
+        },
+        "especie06": {
+            "name": "tortuga boba",
+            "image-url": "https://www.ecolatras.es/archivos/blog-pictures/1599059283.jpg",
+            "location": "Océano Atlántico, Índico y Pacífico y el mar Mediterráneo",
+            "reason": "antiguamente (y no tanto) cazadas por su carne y huevos, hoy en día su principal amenaza son los aparejos de pesca así como la invasión y destrucción de su hábitat",
+            "date": "Australia que tiene más de 2 600 km y donde ya ha muerto más del 35 % por esta causa y más de dos tercios está blanqueado."
+        }
+    }
+}
