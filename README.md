@@ -1,13 +1,13 @@
 # hack-the-ocean
 
-#Participantes: 
+## Participantes: 
  <br>  Laila Calderon
  <br> Julian Rojas
  <br>  Luis Flores
   
-#App sobre animales maritimos en peligro de extincion
+## App sobre animales maritimos en peligro de extincion
 
-#tecnologias utilizadas
+## Tecnologias utilizadas
 <br> 
  -HTML5
  <br> 
