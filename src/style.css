@@ -68,3 +68,55 @@ footer{
     background-color: rgba(127, 255, 212, 0.466);
 }
 
+.contact{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: auto;
+    padding: 20px;
+    background: rgb(90,177,230);
+    background: radial-gradient(circle, rgb(18, 121, 185) 0%, rgb(19, 76, 126) 0%, rgb(121, 190, 206) 100%);
+    border-radius: 6px 6px 0 0;
+    box-shadow: 12px 12px 2px 1px rgba(4, 28, 80, 0.2);
+}
+
+.contact h3{
+    color: #f0f2f3;
+    text-align: center;
+}
+
+.contact label{
+    color: rgb(243, 243, 243);
+    font-weight: bold;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.contact input[type="text"]{
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px 5px;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    border-radius: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: .8em;
+}
+
+.btn{
+    width: 100%;
+    text-align: center;
+    background: #f0f2f3;
+    border: none;
+    display: block;
+    padding: 10px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1em;
+}
