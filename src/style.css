@@ -28,10 +28,7 @@
     position: absolute;
     bottom: -60px;
 }
-.container {
-    background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(124,225,226,1) 25%, rgba(78,208,249,1) 53%, rgba(78,170,249,1) 100%)
-    
-}
+
 article{
     background: #fff;
     margin: 55px 10px 80px 10px;
