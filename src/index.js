@@ -13,7 +13,7 @@ window.addEventListener('DOMContentLoaded', async () => {
         console.log(especie.imageUrl)
         console.log(especie.name)
         container.innerHTML += `
-        <div class="card" style="width: 18rem;">
+        <div class="card " style="width: 18rem;">
         <img class="card-img-top" src="${especie.imageUrl}" alt="Especie en peligro de extincion ${especie.name}">
         <div class="card-body">
           <h5 class="card-title">${especie.name}</h5>
