@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cabecera{
+    height: 100vh;
+    background-image: url('https://images.unsplash.com/photo-1559076118-d0c8300844d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80') ;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}   
+.cabecera > h1{
+    display: inline-block;
+    width: 500px;
+    padding: 25px 10px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, .4);
+    border: 5px solid #fff;
+    box-shadow: 0px 5px 15px rgba(255, 255, 255, .6);
+    border-radius: 5px;
+}
+.cabecera > svg{
+    position: absolute;
+    bottom: -60px;
+}
+article{
+    margin: 55px 10px 80px 10px;
+    padding: 25px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+article > div{
+    width: 45%;
+}
+article .img img{
+    width: 100%;
+}
+.card{
+    padding: 25px;
+    text-align: left;
+    margin: 20px 30px;
+}
