@@ -28,7 +28,9 @@
     position: absolute;
     bottom: -60px;
 }
+
 article{
+    background: #fff;
     margin: 55px 10px 80px 10px;
     padding: 25px 30px;
     display: flex;
@@ -41,8 +43,80 @@ article > div{
 article .img img{
     width: 100%;
 }
+
 .card{
     padding: 25px;
     text-align: left;
     margin: 20px 30px;
+    background-color: rgba(0, 255, 170, 0.445);
+    border-radius: 3%;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.23), 0 10px 40px rgba(0, 0, 0, 0.19);
+    height: 500px;
+    overflow-y: scroll;
+}
+
+p {
+    padding: 10px;
+}
+
+li {
+border-radius: 55px;
+}
+
+footer{
+    display: flex;
+    background-color: rgba(127, 255, 212, 0.466);
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: auto;
+    padding: 20px;
+    background: rgb(90,177,230);
+    background: radial-gradient(circle, rgb(18, 121, 185) 0%, rgb(19, 76, 126) 0%, rgb(121, 190, 206) 100%);
+    border-radius: 6px 6px 0 0;
+    box-shadow: 12px 12px 2px 1px rgba(4, 28, 80, 0.2);
+}
+
+.contact h3{
+    color: #f0f2f3;
+    text-align: center;
+}
+
+.contact label{
+    color: rgb(243, 243, 243);
+    font-weight: bold;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.contact input[type="text"]{
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px 5px;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    border-radius: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: .8em;
+}
+
+.btn{
+    width: 100%;
+    text-align: center;
+    background: #f0f2f3;
+    border: none;
+    display: block;
+    padding: 10px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1em;
 }
